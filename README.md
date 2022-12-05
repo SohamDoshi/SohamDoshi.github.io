@@ -24,6 +24,6 @@
 
 - GitHub: [@SohamDoshi](https://github.com/SohamDoshi)
 
-- LinkedIn: [@SohamDoshi](https://www.linkedin.com/in/SohamDoshi/)
+- LinkedIn: [@SohamDoshi](https://www.linkedin.com/in/soham-m-doshi-b42ab5246/)
 
 
