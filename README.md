@@ -22,8 +22,8 @@
 
 👤 **Aftab Alam**
 
-- GitHub: [@TheAftabAlam](https://github.com/Theaftabalam)
+- GitHub: [@SohamDoshi](https://github.com/SohamDoshi)
 
-- LinkedIn: [@aftabalamsi12/](https://www.linkedin.com/in/aftabalamsi12/)
+- LinkedIn: [@SohamDoshi](https://www.linkedin.com/in/SohamDoshi/](https://www.linkedin.com/in/soham-m-doshi-b42ab5246/)
 
 
