@@ -11,7 +11,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://Theaftabalam.github.io)
+[Live Demo Link](https://sohamdoshi.github.io/)
 
 
 
