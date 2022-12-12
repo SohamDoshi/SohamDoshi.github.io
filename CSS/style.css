@@ -86,20 +86,14 @@ header nav{
 #homePage{
     width: 100%;
     height: auto;
-    /* margin: auto; */
     margin-bottom: 10%;
-    /* box-shadow: 0 5px 35px rgba(0, 0, 0, 15); */
-
 }
 
 .main{
     margin: auto;
-    /* margin-top: 10rem; */
     padding-bottom: 2.5rem;
 }
-/* .empty{
-    height:100px;
-} */
+
 .main .right {
     width: 100%;
     text-align: center;
@@ -107,7 +101,6 @@ header nav{
     color: var(--pure);
     padding-bottom: 20%;
     padding-left: 5%;
-    /* padding: 0 50% 0 0; */
 }
 .main .right h6{
     font-size: 3rem;
@@ -121,10 +114,7 @@ header nav{
     margin-bottom: 2rem;
 }
 .main .right h1 span{
-   
-    /* margin-top: 3rem; */
     color: var(--primary);
-    /* font-size: 3.0; */
 }
 .main .right p{
     line-height: 1.9rem;
@@ -148,7 +138,7 @@ section.about{
     background-color: var(--dark);
     padding: 6rem 0rem;
     color: var(--pure);
-    /* padding: 0 20%; */  box-shadow: 0 5px 35px rgba(0, 0, 0, 15);
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 15);
 
 }
 .about-img{
@@ -160,11 +150,6 @@ section.about{
     margin-left: 20%;
    
 }
-/* .about-img:hover{
-    width: 400px;
-    height: 450px;
-    cursor: pointer;
-} */
 
  .about h1{
     margin-bottom: 1rem;
@@ -187,7 +172,6 @@ section.about{
     margin-bottom: 2rem;
 }
 
-/* Education Page */
 
 #educationPage .box-container{
 
@@ -207,7 +191,6 @@ section.about{
     margin: 4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid var(--primary);
-    /* position: relative; */
 
 }
 #educationPage .box-container .box2 span:hover{
@@ -252,11 +235,6 @@ section.about{
 
 
 }
-
-
-
-
-
 
 
 
@@ -350,22 +328,16 @@ section#ProjectPage{
 .myskill{
     width: 80%;
     height: 400px;
-    /* border: 1px solid red; */
     margin: auto;
     background-color: var(--dark);
     display: grid;
     grid-template-columns: repeat(5,1fr);
     grid-template-rows: auto;
-    gap: 10%;
-    
-   
-   
-   
+    gap: 10%; 
 }
 .skill{
     width: 60%;
     height: 100px;
-    /* border: 1px solid green; */
     margin: auto;
 }
 .skill img{
@@ -415,7 +387,6 @@ section#ProjectPage{
     grid-area: form;
 }
 .contactus .info{
-    /* background-color: var(--pure); */
     grid-area: info;
 }
 
@@ -430,8 +401,6 @@ section#ProjectPage{
 
 }
 .box{
-
-    /* position: relative; */
     width: 80%;
     margin: auto;
     display: grid;
@@ -457,7 +426,6 @@ section#ProjectPage{
 
 }
 .formBox{
-    /* position: relative; */
     width: 100%;
 
 }
@@ -590,7 +558,6 @@ section#ProjectPage{
 
     min-width: 50px;
     height: 50px;
-    /* background: #18b7ff; */
     display: none;
     justify-content: center;
     align-items: center;
@@ -658,7 +625,6 @@ section#ProjectPage{
 @media (max-width:991px ) {
     .mobile_head{
         position: fixed;
-        /* border: 2px solid var(--primary); */
         width: 100%;
         height: 50px;
     
@@ -705,7 +671,6 @@ section#ProjectPage{
     }
 
     .contain {
-        /* border: 1px solid green; */
         height: auto;
         grid-template-columns:1fr;
         grid-template-rows: auto;
