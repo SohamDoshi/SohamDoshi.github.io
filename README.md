@@ -20,7 +20,7 @@
 
 ## Authors
 
-👤 **Aftab Alam**
+👤 **Soham Doshi**
 
 - GitHub: [@SohamDoshi](https://github.com/SohamDoshi)
 
