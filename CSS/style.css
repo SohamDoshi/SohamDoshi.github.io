@@ -378,6 +378,7 @@ form textarea {
   .project-content{
     grid-template-columns: repeat(1,1fr);
     justify-content: center;
+    width: 135%;
   }
   
 }
@@ -456,9 +457,10 @@ form textarea {
     justify-content: center;
   }
   .skills-container {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2,2fr);
   }
   .skills-img img {
+    width: 50%;
     padding-left: 0;
   }
   .skills-img {
@@ -493,7 +495,7 @@ form textarea {
     justify-content: center;
   }
   .project-img{
-    width: 60%;
+    width: 120%;
   }
   .contact-form form{
     width: 300px;
