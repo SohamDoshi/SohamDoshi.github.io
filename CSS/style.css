@@ -275,7 +275,7 @@ header.shadow {
 .project-content .project-img{
   display: grid;
   margin: 4rem;
-  width: 60%;
+  width: 80%;
   align-items: left;
 }
 .project-img {
@@ -378,7 +378,7 @@ form textarea {
   .project-content{
     grid-template-columns: repeat(1,1fr);
     justify-content: center;
-    width: 135%;
+    width: 100%;
   }
   
 }
